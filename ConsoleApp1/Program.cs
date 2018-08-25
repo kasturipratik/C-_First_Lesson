@@ -8,6 +8,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I have created my first application in C#");
+
+            string name = "Pratik Parajuli";
+
+            Console.WriteLine("My name is "+name);
         }
     }
 }
